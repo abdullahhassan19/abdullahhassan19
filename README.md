@@ -28,6 +28,9 @@
 <div align="center" >
 <p>
 <a href="https://linkedin.com/in/abdullah bin hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah bin hassan" height="50" width="50" /></a>
+<a href="https://twitter.com/Abdulla2246">
+<img  align="center" alt="Twitter" | Twitter" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
+</a>
 <a href="https://codesandbox.com/abhm1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhm1999" height="50" width="50" height="600px" /></a>
 <a href="https://www.hackerrank.com/abdullah bin hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdullah bin hassan" height="50" width="50" height="600px"  /></a>
 </p>
