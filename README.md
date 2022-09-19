@@ -14,7 +14,11 @@
 
 - 📫 How to reach me **abdullahmohdi1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sCNvhtnyABhigczH_Sjjw8IxAnTcd2Y-/view?usp=sharing]([https://drive.google.com/file/d/1sCNvhtnyABhigczH_Sjjw8IxAnTcd2Y-/view?usp=sharing](https://drive.google.com/file/d/1aLss5zeqfOlT6HNh6XUBOKlAryz6m-nz/view?usp=sharing))
+- 👨‍💻 All of my projects are available at <a href="https://abdullahhassan19.github.io/"> My Portfolio </a>
+
+
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1aLss5zeqfOlT6HNh6XUBOKlAryz6m-nz/view?usp=sharing"> My resume </a>
 
 
 
